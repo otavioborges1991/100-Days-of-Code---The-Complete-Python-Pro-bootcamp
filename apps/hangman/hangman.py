@@ -1,25 +1,31 @@
 from random import choice
 from utilities.console import clear
+from hangman_ascii_art import hangman
 
 
 def main():
-    word_list = ['aardvark', 'baboon', 'camel', 'balloon', 'raven', 'game', 'python', 'snake', 'water']
+    file = open('hangman_words.txt')
+    words = []
+    for line in file.read().splitlines():
+        words.append(f'{line}')
+
+    word_list = words
     hidden_word = []
     result = 'wrong'
     number = 0
-    lives = 6
-
+    misses = 0
 
     chosen_word = choice(word_list)
     for char in chosen_word:
         hidden_word.append('_')
 
     clear()
-    print(''.join(hidden_word))
     while True:
         number = 0
+        print(hangman[misses])
         result = 'wrong'
-        print(f'{lives} tries left!')
+        print(''.join(hidden_word))
+        print(f'{misses} tries left!')
         guess = input('Guess a letter: ').lower()
         clear()
 
@@ -35,9 +41,10 @@ def main():
               f"The hidden word has {number} letters '{guess.upper()}'")
 
         if number == 0:
-            lives -= 1
-        if lives <= 0:
+            misses += 1
+        if misses >= 6:
             print('GAME OVER!')
+            print(hangman[misses])
             break
 
         missing_letters = hidden_word.count('_')
@@ -45,9 +52,9 @@ def main():
         if missing_letters > 0:
             print(f'You still need to find discover: ')
         else:
+            print(f"{''.join(hidden_word)}")
             print('You Won!')
             break
-
 
 if __name__ == "__main__":
     main()
