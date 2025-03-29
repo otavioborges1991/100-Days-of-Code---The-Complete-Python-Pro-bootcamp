@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="98e460c8-5c50-46c5-930d-1e532c8bb0a2" name="Changes" comment="Working">
-      <change afterPath="$PROJECT_DIR$/utilities/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utilities/data/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utilities/data/validation/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week001/day006/defining_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utilities/console/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week001/day007/hangman.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,9 +55,11 @@
     "Python.fizz_buzz.executor": "Run",
     "Python.for_loops.executor": "Run",
     "Python.fstrings.executor": "Run",
+    "Python.hangman.executor": "Run",
     "Python.head_or_tails.executor": "Run",
     "Python.hello.executor": "Run",
     "Python.highest_score.executor": "Run",
+    "Python.lists.executor": "Run",
     "Python.lists_offsets.executor": "Run",
     "Python.methematical_operations.executor": "Run",
     "Python.modulo_operator.executor": "Run",
