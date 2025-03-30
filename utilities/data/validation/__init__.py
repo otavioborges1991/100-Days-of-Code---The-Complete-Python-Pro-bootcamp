@@ -23,3 +23,16 @@ def get_float(msg):
         except:
             print('Type only numbers')
     return num
+
+
+def list_choices(list):
+    from utilities.console import clear
+    choice = -1
+    while True:
+        clear()
+        for number, option in enumerate(list):
+            print(f'{number} - {option}')
+        choice = get_int('select: ')
+        if len(list) -1 >= choice >= 0:
+            return list[choice]
+

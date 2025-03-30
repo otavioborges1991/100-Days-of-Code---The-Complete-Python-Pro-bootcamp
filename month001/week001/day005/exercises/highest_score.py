@@ -1,7 +1,5 @@
 from random import randint
 
-from week001.day002.primitive_data_types import weight
-
 number_of_student = 100
 
 student_scores = []

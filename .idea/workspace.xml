@@ -5,9 +5,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="98e460c8-5c50-46c5-930d-1e532c8bb0a2" name="Changes" comment="Working">
-      <change afterPath="$PROJECT_DIR$/apps/hangman/hangman_words.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/caesar_cipher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month001/week002/day008/execise/life_in_weeks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month001/week002/day008/execise/love_calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month001/week002/day008/functions_with_input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month001/week002/day008/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month001/week002/day008/positions_vs_keywords_arguments.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/hangman.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/hangman/hangman.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utilities/data/validation/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/utilities/data/validation/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week001/day001/exercirses/001-printing.py" beforeDir="false" afterPath="$PROJECT_DIR$/month001/week001/day001/exercirses/001-printing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week001/day001/exercirses/002-fixing_code.py" beforeDir="false" afterPath="$PROJECT_DIR$/month001/week001/day001/exercirses/002-fixing_code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week001/day001/exercirses/003-glass_switching.py" beforeDir="false" afterPath="$PROJECT_DIR$/month001/week001/day001/exercirses/003-glass_switching.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week001/day001/printing.py" beforeDir="false" afterPath="$PROJECT_DIR$/month001/week001/day001/printing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week001/day001/user_input.py" beforeDir="false" afterPath="$PROJECT_DIR$/month001/week001/day001/user_input.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week001/day001/variables.py" beforeDir="false" afterPath="$PROJECT_DIR$/month001/week001/day001/variables.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week001/day002/exercises/004-bmi_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/month001/week001/day002/exercises/004-bmi_calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week001/day002/fstrings.py" beforeDir="false" afterPath="$PROJECT_DIR$/month001/week001/day002/fstrings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week001/day002/methematical_operations.py" beforeDir="false" afterPath="$PROJECT_DIR$/month001/week001/day002/methematical_operations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week001/day002/number_manipulations.py" beforeDir="false" afterPath="$PROJECT_DIR$/month001/week001/day002/number_manipulations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week001/day002/primitive_data_types.py" beforeDir="false" afterPath="$PROJECT_DIR$/month001/week001/day002/primitive_data_types.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week001/day002/type_casting.py" beforeDir="false" afterPath="$PROJECT_DIR$/month001/week001/day002/type_casting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week001/day003/control_flow_ifelse.py" beforeDir="false" afterPath="$PROJECT_DIR$/month001/week001/day003/control_flow_ifelse.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week001/day003/exercises/004-bmi_calculator2.py" beforeDir="false" afterPath="$PROJECT_DIR$/month001/week001/day003/exercises/004-bmi_calculator2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week001/day003/modulo_operator.py" beforeDir="false" afterPath="$PROJECT_DIR$/month001/week001/day003/modulo_operator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week001/day004/exercises/head_or_tails.py" beforeDir="false" afterPath="$PROJECT_DIR$/month001/week001/day004/exercises/head_or_tails.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week001/day004/exercises/who_pays_the_bills.py" beforeDir="false" afterPath="$PROJECT_DIR$/month001/week001/day004/exercises/who_pays_the_bills.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week001/day004/lists_offsets.py" beforeDir="false" afterPath="$PROJECT_DIR$/month001/week001/day004/lists_offsets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week001/day004/my_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/month001/week001/day004/my_module.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week001/day004/nested_lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/month001/week001/day004/nested_lists.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week001/day004/random_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/month001/week001/day004/random_module.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week001/day005/exercises/fizz_buzz.py" beforeDir="false" afterPath="$PROJECT_DIR$/month001/week001/day005/exercises/fizz_buzz.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week001/day005/exercises/highest_score.py" beforeDir="false" afterPath="$PROJECT_DIR$/month001/week001/day005/exercises/highest_score.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week001/day005/for_loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/month001/week001/day005/for_loops.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week001/day005/range_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/month001/week001/day005/range_function.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week001/day006/defining_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/month001/week001/day006/defining_functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week001/day007/note" beforeDir="false" afterPath="$PROJECT_DIR$/month001/week001/day007/note" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,54 +77,61 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Python.band_name_gerenator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.control_flow_ifelse.executor&quot;: &quot;Run&quot;,
-    &quot;Python.day001.executor&quot;: &quot;Run&quot;,
-    &quot;Python.defining_functions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.fizz_buzz.executor&quot;: &quot;Run&quot;,
-    &quot;Python.for_loops.executor&quot;: &quot;Run&quot;,
-    &quot;Python.fstrings.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hangman.executor&quot;: &quot;Run&quot;,
-    &quot;Python.head_or_tails.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hello.executor&quot;: &quot;Run&quot;,
-    &quot;Python.highest_score.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lists.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lists_offsets.executor&quot;: &quot;Run&quot;,
-    &quot;Python.methematical_operations.executor&quot;: &quot;Run&quot;,
-    &quot;Python.modulo_operator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.my_module.executor&quot;: &quot;Run&quot;,
-    &quot;Python.nested_lists.executor&quot;: &quot;Run&quot;,
-    &quot;Python.number_manipulations_and_f_strings.executor&quot;: &quot;Run&quot;,
-    &quot;Python.password_generator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.primitive_data_types.executor&quot;: &quot;Run&quot;,
-    &quot;Python.python_pizza.executor&quot;: &quot;Run&quot;,
-    &quot;Python.random_module.executor&quot;: &quot;Run&quot;,
-    &quot;Python.range_function.executor&quot;: &quot;Run&quot;,
-    &quot;Python.rock_paper_scissors.executor&quot;: &quot;Run&quot;,
-    &quot;Python.teasure_island.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tip_calculator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.user_input.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.variables.executor&quot;: &quot;Run&quot;,
-    &quot;Python.who_pays_the_bills.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Python.__init__.executor": "Run",
+    "Python.band_name_gerenator.executor": "Run",
+    "Python.caesar_cipher.executor": "Run",
+    "Python.control_flow_ifelse.executor": "Run",
+    "Python.day001.executor": "Run",
+    "Python.defining_functions.executor": "Run",
+    "Python.fizz_buzz.executor": "Run",
+    "Python.for_loops.executor": "Run",
+    "Python.fstrings.executor": "Run",
+    "Python.functions_with_input.executor": "Run",
+    "Python.hangman.executor": "Run",
+    "Python.head_or_tails.executor": "Run",
+    "Python.hello.executor": "Run",
+    "Python.highest_score.executor": "Run",
+    "Python.index.executor": "Run",
+    "Python.life_in_weeks.executor": "Run",
+    "Python.lists.executor": "Run",
+    "Python.lists_offsets.executor": "Run",
+    "Python.love_calculator.executor": "Run",
+    "Python.methematical_operations.executor": "Run",
+    "Python.modulo_operator.executor": "Run",
+    "Python.my_module.executor": "Run",
+    "Python.nested_lists.executor": "Run",
+    "Python.number_manipulations_and_f_strings.executor": "Run",
+    "Python.password_generator.executor": "Run",
+    "Python.positions_vs_keywords_arguments.executor": "Run",
+    "Python.primitive_data_types.executor": "Run",
+    "Python.python_pizza.executor": "Run",
+    "Python.random_module.executor": "Run",
+    "Python.range_function.executor": "Run",
+    "Python.rock_paper_scissors.executor": "Run",
+    "Python.teasure_island.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.tip_calculator.executor": "Run",
+    "Python.user_input.executor": "Debug",
+    "Python.variables.executor": "Run",
+    "Python.who_pays_the_bills.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\otavi\code\Udemy\100 Days of Code - The Complete Python Pro bootcamp\month001" />
       <recent name="C:\Users\otavi\code\Udemy\100 Days of Code - The Complete Python Pro bootcamp\apps\hangman" />
       <recent name="C:\Users\otavi\code\Udemy\100 Days of Code - The Complete Python Pro bootcamp\apps" />
       <recent name="C:\Users\otavi\code\Udemy\100 Days of Code - The Complete Python Pro bootcamp\week001\day004\exercises" />
       <recent name="C:\Users\otavi\code\Udemy\100 Days of Code - The Complete Python Pro bootcamp" />
-      <recent name="C:\Users\otavi\code\Udemy\100 Days of Code - The Complete Python Pro bootcamp\week001\day001\app" />
     </key>
   </component>
   <component name="RunManager">
@@ -110,6 +149,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week001/day006/defining_functions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="love_calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100 Days of Code - The Complete Python Pro bootcamp" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/month001/week002/day008/execise" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/month001/week002/day008/execise/love_calculator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -184,35 +245,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tip_calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="100 Days of Code - The Complete Python Pro bootcamp" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/apps" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/apps/tip_calculator.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.love_calculator" />
         <item itemvalue="Python.defining_functions" />
         <item itemvalue="Python.password_generator" />
         <item itemvalue="Python.rock_paper_scissors" />
         <item itemvalue="Python.teasure_island" />
-        <item itemvalue="Python.tip_calculator" />
       </list>
     </recent_temporary>
   </component>
