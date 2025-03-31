@@ -5,41 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="98e460c8-5c50-46c5-930d-1e532c8bb0a2" name="Changes" comment="Working">
-      <change afterPath="$PROJECT_DIR$/apps/caesar_cipher.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/month001/week002/day008/execise/life_in_weeks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/month001/week002/day008/execise/love_calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/month001/week002/day008/functions_with_input.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/month001/week002/day008/index.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/month001/week002/day008/positions_vs_keywords_arguments.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/auction/auction_sale.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/auction/buyers_names.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/auction/itens.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month001/week002/day009/dictionary_deep_dive.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month001/week002/day009/exercises/grading_program.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month001/week002/day009/nesting_lists_in_dictionaries.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/utilities/data/validation/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/utilities/data/validation/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week001/day001/exercirses/001-printing.py" beforeDir="false" afterPath="$PROJECT_DIR$/month001/week001/day001/exercirses/001-printing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week001/day001/exercirses/002-fixing_code.py" beforeDir="false" afterPath="$PROJECT_DIR$/month001/week001/day001/exercirses/002-fixing_code.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week001/day001/exercirses/003-glass_switching.py" beforeDir="false" afterPath="$PROJECT_DIR$/month001/week001/day001/exercirses/003-glass_switching.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week001/day001/printing.py" beforeDir="false" afterPath="$PROJECT_DIR$/month001/week001/day001/printing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week001/day001/user_input.py" beforeDir="false" afterPath="$PROJECT_DIR$/month001/week001/day001/user_input.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week001/day001/variables.py" beforeDir="false" afterPath="$PROJECT_DIR$/month001/week001/day001/variables.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week001/day002/exercises/004-bmi_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/month001/week001/day002/exercises/004-bmi_calculator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week001/day002/fstrings.py" beforeDir="false" afterPath="$PROJECT_DIR$/month001/week001/day002/fstrings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week001/day002/methematical_operations.py" beforeDir="false" afterPath="$PROJECT_DIR$/month001/week001/day002/methematical_operations.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week001/day002/number_manipulations.py" beforeDir="false" afterPath="$PROJECT_DIR$/month001/week001/day002/number_manipulations.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week001/day002/primitive_data_types.py" beforeDir="false" afterPath="$PROJECT_DIR$/month001/week001/day002/primitive_data_types.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week001/day002/type_casting.py" beforeDir="false" afterPath="$PROJECT_DIR$/month001/week001/day002/type_casting.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week001/day003/control_flow_ifelse.py" beforeDir="false" afterPath="$PROJECT_DIR$/month001/week001/day003/control_flow_ifelse.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week001/day003/exercises/004-bmi_calculator2.py" beforeDir="false" afterPath="$PROJECT_DIR$/month001/week001/day003/exercises/004-bmi_calculator2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week001/day003/modulo_operator.py" beforeDir="false" afterPath="$PROJECT_DIR$/month001/week001/day003/modulo_operator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week001/day004/exercises/head_or_tails.py" beforeDir="false" afterPath="$PROJECT_DIR$/month001/week001/day004/exercises/head_or_tails.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week001/day004/exercises/who_pays_the_bills.py" beforeDir="false" afterPath="$PROJECT_DIR$/month001/week001/day004/exercises/who_pays_the_bills.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week001/day004/lists_offsets.py" beforeDir="false" afterPath="$PROJECT_DIR$/month001/week001/day004/lists_offsets.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week001/day004/my_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/month001/week001/day004/my_module.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week001/day004/nested_lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/month001/week001/day004/nested_lists.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week001/day004/random_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/month001/week001/day004/random_module.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week001/day005/exercises/fizz_buzz.py" beforeDir="false" afterPath="$PROJECT_DIR$/month001/week001/day005/exercises/fizz_buzz.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week001/day005/exercises/highest_score.py" beforeDir="false" afterPath="$PROJECT_DIR$/month001/week001/day005/exercises/highest_score.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week001/day005/for_loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/month001/week001/day005/for_loops.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week001/day005/range_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/month001/week001/day005/range_function.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week001/day006/defining_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/month001/week001/day006/defining_functions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week001/day007/note" beforeDir="false" afterPath="$PROJECT_DIR$/month001/week001/day007/note" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,15 +55,18 @@
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Python.__init__.executor": "Run",
+    "Python.auction_sale.executor": "Run",
     "Python.band_name_gerenator.executor": "Run",
     "Python.caesar_cipher.executor": "Run",
     "Python.control_flow_ifelse.executor": "Run",
     "Python.day001.executor": "Run",
     "Python.defining_functions.executor": "Run",
+    "Python.dictionary_deep_dive.executor": "Run",
     "Python.fizz_buzz.executor": "Run",
     "Python.for_loops.executor": "Run",
     "Python.fstrings.executor": "Run",
     "Python.functions_with_input.executor": "Run",
+    "Python.grading_program.executor": "Run",
     "Python.hangman.executor": "Run",
     "Python.head_or_tails.executor": "Run",
     "Python.hello.executor": "Run",
@@ -103,6 +80,7 @@
     "Python.modulo_operator.executor": "Run",
     "Python.my_module.executor": "Run",
     "Python.nested_lists.executor": "Run",
+    "Python.nesting_lists_in_dictionaries.executor": "Run",
     "Python.number_manipulations_and_f_strings.executor": "Run",
     "Python.password_generator.executor": "Run",
     "Python.positions_vs_keywords_arguments.executor": "Run",
@@ -127,11 +105,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\otavi\code\Udemy\100 Days of Code - The Complete Python Pro bootcamp\apps\auction" />
+      <recent name="C:\Users\otavi\code\Udemy\100 Days of Code - The Complete Python Pro bootcamp\month001\week002" />
       <recent name="C:\Users\otavi\code\Udemy\100 Days of Code - The Complete Python Pro bootcamp\month001" />
       <recent name="C:\Users\otavi\code\Udemy\100 Days of Code - The Complete Python Pro bootcamp\apps\hangman" />
       <recent name="C:\Users\otavi\code\Udemy\100 Days of Code - The Complete Python Pro bootcamp\apps" />
-      <recent name="C:\Users\otavi\code\Udemy\100 Days of Code - The Complete Python Pro bootcamp\week001\day004\exercises" />
-      <recent name="C:\Users\otavi\code\Udemy\100 Days of Code - The Complete Python Pro bootcamp" />
     </key>
   </component>
   <component name="RunManager">
@@ -247,8 +225,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.love_calculator" />
         <item itemvalue="Python.defining_functions" />
+        <item itemvalue="Python.love_calculator" />
         <item itemvalue="Python.password_generator" />
         <item itemvalue="Python.rock_paper_scissors" />
         <item itemvalue="Python.teasure_island" />

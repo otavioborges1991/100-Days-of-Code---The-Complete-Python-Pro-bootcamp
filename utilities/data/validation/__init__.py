@@ -36,3 +36,16 @@ def list_choices(list):
         if len(list) -1 >= choice >= 0:
             return list[choice]
 
+def confirm(msg='Yes/No'):
+    answer = str(input(msg)).lower()
+    if answer == 'y':
+        return True
+    else:
+        return False
+
+def get_name(msg='Name: '):
+    name = " ".join(str(input(msg)).title().strip().split())
+    return name
+
+
+
