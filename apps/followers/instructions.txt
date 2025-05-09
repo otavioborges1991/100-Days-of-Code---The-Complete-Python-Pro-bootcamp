@@ -1,0 +1,3 @@
+A list of online platforms will show.
+You must guess which one has the most followers.
+Each time you guess right, the platform is removed from the list and you must guess the next one.
