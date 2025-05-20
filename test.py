@@ -1,13 +1,12 @@
 # Target is the number up to which we count
-def fizz_buzz(target):
-    for number in range(1, target + 1):
-        if number % 3 == 0 and number % 5 == 0:
-            print("FizzBuzz")
-        elif number % 3 == 0:
-            print("Fizz")
-        elif number % 5 == 0:
-            print("Buzz")
-        else:
-            print([number])
+dicionario = [
+    {'nome': 'Otavio', "idade": 33},
+    {'nome': 'Larissa', "idade": 35},
+]
 
-fizz_buzz(15)
+for pessoa in dicionario:
+    if pessoa['nome'] == 'Otavio':
+        pessoa['nome'] = 'Jose'
+    if pessoa['idade'] == 35:
+        pessoa['idade'] = 36
+    print(pessoa)

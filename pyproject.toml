@@ -1,0 +1,9 @@
+[project]
+name = "100-days-of-code-the-complete-python-pro-bootcamp"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "prettytable>=3.16.0",
+]
