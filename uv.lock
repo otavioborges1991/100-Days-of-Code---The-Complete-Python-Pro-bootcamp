@@ -7,11 +7,21 @@ name = "100-days-of-code-the-complete-python-pro-bootcamp"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
+    { name = "opentdb" },
     { name = "prettytable" },
 ]
 
 [package.metadata]
-requires-dist = [{ name = "prettytable", specifier = ">=3.16.0" }]
+requires-dist = [
+    { name = "opentdb", specifier = ">=1.1" },
+    { name = "prettytable", specifier = ">=3.16.0" },
+]
+
+[[package]]
+name = "opentdb"
+version = "1.1"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/2c/dd/8c05534c8d3f4cc62720fb3779352327eb2af0656bb03b6fb2ce33233d90/opentdb-1.01.zip", hash = "sha256:1550d4b65f7e1393495350ad5a92bffb5bd9571c3d47c88c72ce93031b90a62e", size = 3940, upload-time = "2017-04-27T23:08:22.297Z" }
 
 [[package]]
 name = "prettytable"
